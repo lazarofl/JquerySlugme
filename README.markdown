@@ -29,7 +29,7 @@ defaults = {
 </head>
 <body>
     <label for="name"></label>
-    <input type="text" name="name" value="" placeholder="type here">
+    <input type="text" name="name" id="name"  placeholder="type here">
     <br>
     <label for="urladdress"></label>
     www.domain.com/<input type="text" name="urladdress" id="urladdress" value="">
